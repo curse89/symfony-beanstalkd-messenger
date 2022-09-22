@@ -23,7 +23,7 @@
         "ext-json": "*",
         "php": ">=7.2",
         "pda/pheanstalk": "^4.0",
-        "symfony/messenger": "^5.2"
+        "symfony/messenger": "^5.2|^6.0"
     },
     "require-dev": {
         "phpmd/phpmd": "^2.9",
